@@ -1,0 +1,130 @@
+{
+  "shot_0001": {
+    "release_frame_img": "runs/release_frames/shot_0001_release.jpg",
+    "shooter_det_idx": 14,
+    "shooter_bbox_xyxy": [
+      1010.0474853515625,
+      300.5856628417969,
+      1172.03759765625,
+      634.3626708984375
+    ],
+    "shooter_conf": 0.7786458134651184,
+    "shooter_src_frame": "shot_0001_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0002": {
+    "release_frame_img": "runs/release_frames/shot_0002_release.jpg",
+    "shooter_det_idx": 16,
+    "shooter_bbox_xyxy": [
+      1433.3544921875,
+      265.7387390136719,
+      1535.17138671875,
+      613.4619140625
+    ],
+    "shooter_conf": 0.7831347584724426,
+    "shooter_src_frame": "shot_0002_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0003": {
+    "release_frame_img": "runs/release_frames/shot_0003_release.jpg",
+    "shooter_det_idx": 3,
+    "shooter_bbox_xyxy": [
+      354.6070861816406,
+      378.166259765625,
+      447.2340087890625,
+      581.8209228515625
+    ],
+    "shooter_conf": 0.3749130368232727,
+    "shooter_src_frame": "shot_0003_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0004": {
+    "release_frame_img": "runs/release_frames/shot_0004_release.jpg",
+    "shooter_det_idx": 15,
+    "shooter_bbox_xyxy": [
+      1467.6719970703125,
+      251.65870666503906,
+      1523.8199462890625,
+      529.5056762695312
+    ],
+    "shooter_conf": 0.3994978964328766,
+    "shooter_src_frame": "shot_0004_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0005": {
+    "release_frame_img": "runs/release_frames/shot_0005_release.jpg",
+    "shooter_det_idx": 5,
+    "shooter_bbox_xyxy": [
+      495.33270263671875,
+      320.0595397949219,
+      574.9271850585938,
+      549.399169921875
+    ],
+    "shooter_conf": 0.5043412446975708,
+    "shooter_src_frame": "shot_0005_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0006": {
+    "release_frame_img": "runs/release_frames/shot_0006_release.jpg",
+    "shooter_det_idx": 5,
+    "shooter_bbox_xyxy": [
+      405.9200134277344,
+      385.22918701171875,
+      537.5702514648438,
+      829.2645874023438
+    ],
+    "shooter_conf": 0.8098523020744324,
+    "shooter_src_frame": "shot_0006_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0007": {
+    "release_frame_img": "runs/release_frames/shot_0007_release.jpg",
+    "shooter_det_idx": 6,
+    "shooter_bbox_xyxy": [
+      424.48553466796875,
+      390.18658447265625,
+      517.9993896484375,
+      631.4970703125
+    ],
+    "shooter_conf": 0.6483518481254578,
+    "shooter_src_frame": "shot_0007_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  },
+  "shot_0008": {
+    "release_frame_img": "runs/release_frames/shot_0008_release.jpg",
+    "shooter_det_idx": 6,
+    "shooter_bbox_xyxy": [
+      992.0787963867188,
+      510.0526428222656,
+      1079.0721435546875,
+      810.534912109375
+    ],
+    "shooter_conf": 0.7597396969795227,
+    "shooter_src_frame": "shot_0008_release.jpg",
+    "det_conf_used": 0.15,
+    "det_iou_used": 0.6,
+    "model": "yolov8s.pt",
+    "neighbor_frames_used": true
+  }
+}
